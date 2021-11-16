@@ -1,0 +1,2 @@
+X:0;Y:0;Open:0;XHand:0;YHand:0;Select:0;
+X:0;Y:0;Open:0;XHand:0;YHand:0;Select:0;
